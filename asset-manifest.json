@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba976b29.chunk.css",
+    "main.js": "/static/js/main.eb74aac2.chunk.js",
+    "main.js.map": "/static/js/main.eb74aac2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.16ebb460.js",
+    "runtime-main.js.map": "/static/js/runtime-main.16ebb460.js.map",
+    "static/js/2.9f778d2c.chunk.js": "/static/js/2.9f778d2c.chunk.js",
+    "static/js/2.9f778d2c.chunk.js.map": "/static/js/2.9f778d2c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7cf42f5c3f61f60108e17229564ea3b9.js": "/precache-manifest.7cf42f5c3f61f60108e17229564ea3b9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ba976b29.chunk.css.map": "/static/css/main.ba976b29.chunk.css.map",
+    "static/js/2.9f778d2c.chunk.js.LICENSE": "/static/js/2.9f778d2c.chunk.js.LICENSE",
+    "static/media/index.css": "/static/media/hamburger_closed.62bf223d.svg",
+    "static/media/bg2.png": "/static/media/bg2.7752a015.png",
+    "static/media/calendar.svg": "/static/media/calendar.17efa687.svg",
+    "static/media/coc_background.png": "/static/media/coc_background.7941ef85.png",
+    "static/media/code_jumbotron.png": "/static/media/code_jumbotron.9f90e129.png",
+    "static/media/dataforeningen.svg": "/static/media/dataforeningen.cf145a2c.svg",
+    "static/media/email.svg": "/static/media/email.46bb5905.svg",
+    "static/media/facebook.svg": "/static/media/facebook.34e73505.svg",
+    "static/media/index_01.jpg": "/static/media/index_01.01b7ea06.jpg",
+    "static/media/index_03.jpg": "/static/media/index_03.b303a4af.jpg",
+    "static/media/ixda.svg": "/static/media/ixda.89b343c5.svg",
+    "static/media/javabin.svg": "/static/media/javabin.5703732e.svg",
+    "static/media/nnug.svg": "/static/media/nnug.8fd6210c.svg",
+    "static/media/partners_jumbotron.png": "/static/media/partners_jumbotron.c60e0d1c.png",
+    "static/media/programme_jumbotron.png": "/static/media/programme_jumbotron.ea7df5ab.png",
+    "static/media/spillmakerlauget.svg": "/static/media/spillmakerlauget.e9ea64cd.svg",
+    "static/media/startups_jumbotron.png": "/static/media/startups_jumbotron.488a9d1e.png",
+    "static/media/tdc_grayscale.png": "/static/media/tdc_grayscale.35cc8c1b.png",
+    "static/media/tdc_jumbotron.png": "/static/media/tdc_jumbotron.4399c36b.png",
+    "static/media/ticket_jumbotron.png": "/static/media/ticket_jumbotron.e5680f2e.png",
+    "static/media/twitter.svg": "/static/media/twitter.a1223de5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16ebb460.js",
+    "static/js/2.9f778d2c.chunk.js",
+    "static/css/main.ba976b29.chunk.css",
+    "static/js/main.eb74aac2.chunk.js"
+  ]
+}
